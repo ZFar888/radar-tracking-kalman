@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from simulation import MovingObject
 from radar import Radar
-from kalmen import KalmanFilter2D
+from kalman import KalmanFilter2D
 
 # Set up simulation
 dt = 0.2

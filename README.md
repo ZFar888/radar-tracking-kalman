@@ -29,3 +29,10 @@ A real-time Python simulation of a 2D object tracked using noisy radar measureme
    ```bash
    git clone https://github.com/ZFar888/radar-tracking-kalman.git
    cd radar-tracking-kalman
+
+
+## Usage
+
+To start the simulation, run:
+```bash
+python Main.py
